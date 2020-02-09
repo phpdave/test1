@@ -4,6 +4,7 @@ Testing submodules
 
 ```sh
 git submodule add https://github.com/php/php-src.git
+git submodule add https://github.com/zendframework/zf1.git zf1/library/Zend/Db/
 ```
 
 
